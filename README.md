@@ -1,0 +1,1 @@
+This is a basic scientific calculator java code. It is written on IntelliJ platform.
